@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task Automation Software", "Task Automation Software\Task Automation Software.csproj", "{59E4335E-1B31-4259-8E68-37A5472C463B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Automation Software Front-End", "Task Automation Software Front-End\Task Automation Software Front-End.csproj", "{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E4335E-1B31-4259-8E68-37A5472C463B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E4335E-1B31-4259-8E68-37A5472C463B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E4335E-1B31-4259-8E68-37A5472C463B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E4335E-1B31-4259-8E68-37A5472C463B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69D7B14-D778-400D-97FC-02F35F4DE0A1}
+	EndGlobalSection
+EndGlobal

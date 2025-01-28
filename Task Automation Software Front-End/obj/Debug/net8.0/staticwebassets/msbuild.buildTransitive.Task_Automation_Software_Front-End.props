@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Task_Automation_Software_Front-End.props" />
+</Project>

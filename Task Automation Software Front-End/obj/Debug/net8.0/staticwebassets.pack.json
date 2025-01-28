@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Task_Automation_Software_Front-End.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Task_Automation_Software_Front-End.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Task_Automation_Software_Front-End.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Task_Automation_Software_Front-End.props",
+      "PackagePath": "build\\Task_Automation_Software_Front-End.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Task_Automation_Software_Front-End.props",
+      "PackagePath": "buildMultiTargeting\\Task_Automation_Software_Front-End.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Task_Automation_Software_Front-End.props",
+      "PackagePath": "buildTransitive\\Task_Automation_Software_Front-End.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

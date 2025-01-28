@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4335E-1B31-4259-8E68-37A5472C463B}|Task Automation Software\\Task Automation Software.csproj|c:\\users\\juanu\\source\\repos\\task automation software\\task automation software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E4335E-1B31-4259-8E68-37A5472C463B}|Task Automation Software\\Task Automation Software.csproj|solutionrelative:task automation software\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}|Task Automation Software Front-End\\Task Automation Software Front-End.csproj|c:\\users\\juanu\\source\\repos\\task automation software\\task automation software front-end\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}|Task Automation Software Front-End\\Task Automation Software Front-End.csproj|solutionrelative:task automation software front-end\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}|Task Automation Software Front-End\\Task Automation Software Front-End.csproj|c:\\users\\juanu\\source\\repos\\task automation software\\task automation software front-end\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}|Task Automation Software Front-End\\Task Automation Software Front-End.csproj|solutionrelative:task automation software front-end\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}|Task Automation Software Front-End\\Task Automation Software Front-End.csproj|c:\\users\\juanu\\source\\repos\\task automation software\\task automation software front-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}|Task Automation Software Front-End\\Task Automation Software Front-End.csproj|solutionrelative:task automation software front-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}|Task Automation Software Front-End\\Task Automation Software Front-End.csproj|c:\\users\\juanu\\source\\repos\\task automation software\\task automation software front-end\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B55F239F-69B6-45B2-8778-31A3E7DCA3E7}|Task Automation Software Front-End\\Task Automation Software Front-End.csproj|solutionrelative:task automation software front-end\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Task Automation Software Front-End\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Task Automation Software Front-End\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T18:41:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software\\Program.cs",
+              "RelativeDocumentMoniker": "Task Automation Software\\Program.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software\\Program.cs",
+              "RelativeToolTip": "Task Automation Software\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:29:37.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\Program.cs",
+              "RelativeDocumentMoniker": "Task Automation Software Front-End\\Program.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\Program.cs",
+              "RelativeToolTip": "Task Automation Software Front-End\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:27:17.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Task Automation Software Front-End\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Task Automation Software Front-End\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T17:07:06.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "Task Automation Software Front-End\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\Task Automation Software\\Task Automation Software Front-End\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "Task Automation Software Front-End\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAGMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T17:56:26.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

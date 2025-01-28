@@ -1,0 +1,52 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>Task Automation Software</PageTitle>
+
+<div class="main-layout">
+    <h1>Task Automation Software</h1>
+
+    <div class="task-buttons">
+        <a href="https://www.google.com" target="_blank" class="btn-google">Search Google</a>
+        <a href="https://chat.openai.com" target="_blank" class="btn-gpt">ChatGPT</a>
+        <a href="https://visualstudio.microsoft.com" target="_blank" class="btn-vs">Visual Studio</a>
+        <a href="https://www.youtube.com" target="_blank" class="btn-youtube">YouTube</a>
+        <a href="https://github.com" target="_blank" class="btn-git">GitHub</a>
+    </div>
+
+
+    @Body
+</div>
+
+@inject NavigationManager NavigationManager
+
+@code {
+    private void OpenGoogle() => NavigationManager.NavigateTo("https://www.google.com", true);
+    private void OpenChatGPT() => NavigationManager.NavigateTo("https://chat.openai.com", true);
+    private void OpenVisualStudio() => NavigationManager.NavigateTo("c::/your/path/visual.exe");
+    private void OpenYouTube() => NavigationManager.NavigateTo("https://www.youtube.com", true);
+    private void OpenGitHub() => NavigationManager.NavigateTo("https://github.com", true);
+
+
+
+    private void intoUrl(string url)
+    {
+        var psi = new System.Diagnostics.ProcessStartInfo
+            {
+                FileName = url,
+                UseShellExecute = true
+            };
+        System.Diagnostics.Process.Start(psi);
+    }
+
+    private void AbrirApp(string path)
+    {
+        try
+        {
+            System.Diagnostics.Process.Start(path);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error opening program: {ex.Message}");
+        }
+    }
+}

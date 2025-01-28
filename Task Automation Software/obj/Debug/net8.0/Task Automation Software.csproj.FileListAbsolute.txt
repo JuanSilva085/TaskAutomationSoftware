@@ -1,0 +1,14 @@
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\bin\Debug\net8.0\Task Automation Software.exe
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\bin\Debug\net8.0\Task Automation Software.deps.json
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\bin\Debug\net8.0\Task Automation Software.runtimeconfig.json
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\bin\Debug\net8.0\Task Automation Software.dll
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\bin\Debug\net8.0\Task Automation Software.pdb
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\Task Automation Software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\Task Automation Software.AssemblyInfoInputs.cache
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\Task Automation Software.AssemblyInfo.cs
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\Task Automation Software.csproj.CoreCompileInputs.cache
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\Task Automation Software.dll
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\refint\Task Automation Software.dll
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\Task Automation Software.pdb
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\Task Automation Software.genruntimeconfig.cache
+C:\Users\JuanU\source\repos\Task Automation Software\Task Automation Software\obj\Debug\net8.0\ref\Task Automation Software.dll
