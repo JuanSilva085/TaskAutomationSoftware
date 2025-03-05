@@ -1,11 +1,26 @@
-Developed with Blazor for high performance![Automação-de-tarefas](https://github.com/user-attachments/assets/6105f81e-395c-4fd0-9b54-6178a5990741)
+Desenvolvido com Blazor![Automação-de-tarefas](https://github.com/user-attachments/assets/6105f81e-395c-4fd0-9b54-6178a5990741)
 
-🔥 Features 🌐 Quick access to essential websites 🖥️ Execution of local applications ⚡ Lightweight and minimalist interface 🛠️ 
+🌐 Acesso rápido a sites essenciais 
+🖥️ Execução de aplicações locais 
+⚡ Interface leve e minimalista 🛠️ 
 
-🚀 Task Automation Software Task Automation Software is a project developed in Blazor that facilitates quick access to essential websites and applications. With a simple and intuitive interface, it allows you to open websites such as Google, ChatGPT, YouTube, GitHub and also run local programs directly.
+🚀 Software de Automação de Tarefas 
+  Um projeto desenvolvido com Blazor que facilita o acesso rápido a sites e aplicações essenciais. Com uma interface simples e intuitiva, permite abrir sites como Google, ChatGPT, YouTube, GitHub e também executar programas locais diretamente.
 
 
+📌 Tecnologias Usadas                                                                                                                                                                      
+    Blazor                                                                                                                                                                                   
+    C#                                                                                                                                                                                      
+   .NET
 
-📌 Technologies Used Blazor C# .NET
+▶️ Como executar o projeto
 
-🎯 How to Use Clone the repository and run the Blazor project to start automating your tasks! git clone https://github.com/your-username/task-automation-software.git
+Clone o repositório                                                                                                                                                                         
+git clone [https://github.com/seu-usuario/sistema-biblioteca.git](https://github.com/JuanSilva085/TaskAutomationSoftware)                                                                    
+cd task-automation-software
+
+Compile o projeto                                                                                                                                                                        
+dotnet build
+
+Execute                                                                                                                                                                                  
+dotnet run
