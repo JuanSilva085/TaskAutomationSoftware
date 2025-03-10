@@ -16,7 +16,7 @@ Desenvolvido com Blazor![Automação-de-tarefas](https://github.com/user-attachm
 ▶️ Como executar o projeto
 
 Clone o repositório                                                                                                                                                                         
-git clone [https://github.com/seu-usuario/sistema-biblioteca.git](https://github.com/JuanSilva085/TaskAutomationSoftware)                                                                    
+git clone https://github.com/JuanSilva085/TaskAutomationSoftware                                                                   
 cd task-automation-software
 
 Compile o projeto                                                                                                                                                                        
